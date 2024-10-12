@@ -1,0 +1,17 @@
+# You must submit a file named author containing your username followed by a ’\n’
+    at the root of your repository.
+
+# &> cat -e author
+xlogin$
+
+# You must submit a C file for each function you create, as well as a libft.h file,
+    which will contain all the necessary prototypes as well as macros and typedefs you
+    might need. All those files must be at the root of your repository.
+
+# You must submit a Makefile which will compile your source files to a static library
+    libft.a.
+
+# Your Makefile must at least contain the rules $(NAME), all, clean, fclean et re
+    in the order that you will see fit.
+
+# Your Makefile must compile your work with the flags -Wall, -Wextra and -Werror.

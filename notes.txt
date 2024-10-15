@@ -1,2 +1,0 @@
-# You must submit a file named author containing your username followed by a ’\n’
-    at the root of your repository,
